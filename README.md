@@ -1,11 +1,12 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-## Installation
+## ***Installation
 https://github.com/fatmacaglar/kodluyoruzilkrepo.git
 
 ### Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Linux için:
 
 cd kodluyoruzilkrepo
