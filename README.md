@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet  index.html, bir adet de license dosyası barındırıyor.
+
+
 
 ![lorem picsum gorsel](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
 
