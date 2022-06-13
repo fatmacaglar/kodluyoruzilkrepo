@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![lorem picsum gorsel](https://picsum.photos/200/300)
+
