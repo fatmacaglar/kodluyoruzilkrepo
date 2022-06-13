@@ -8,13 +8,13 @@
 
 ## Installation
 
-https://github.com/fatmacaglar/kodluyoruzilkrepo.git
+*git clone https://github.com/fatmacaglar/kodluyoruzilkrepo.git*
 
 ### Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-Linux için:
+Windows için:
 
 *cd kodluyoruzilkrepo
 code .*
